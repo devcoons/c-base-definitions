@@ -20,7 +20,7 @@ Bit manipulation macros: `SET_BIT, CLEAR_BIT, TOGGLE_BIT, IS_BIT_SET, IS_BIT_CLE
 This header file relies on standard C libraries:
 
 ```
-<inttypes.h>
+<stdint.h>
 <stdbool.h>
 <stddef.h>
 <limits.h>
